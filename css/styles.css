@@ -1,0 +1,22 @@
+body {
+  background-color: honeydew;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: gray;
+  width: 10%;
+}
+
+img{
+  width: 150px;
+}
+
+h1{
+  color: lightseagreen;
+}
+
+h3{
+  color: lightseagreen;
+}
